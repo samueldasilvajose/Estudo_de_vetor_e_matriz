@@ -3,14 +3,11 @@ public class bass {
    
     public static void main(String[] args) {
         
-        
-        // atividade braba
-        
-        // qual o maior e o menor  número de cada vetor e de todos x
-        // quantos números pertencentes a fibonacci cada vetor tem x
-        // quantos números primos cada vetor tem x
-        // qual o mmc e mdc de cada vetor x
-        // qual número, de cada vetor , possui mais divisores.( em caso de empate escolha o primeiro a ser encontrado) x 
+        // qual o maior e o menor  número de cada vetor e de todos 
+        // quantos números pertencentes a fibonacci cada vetor tem 
+        // quantos números primos cada vetor tem 
+        // qual o mmc e mdc de cada vetor 
+        // qual número, de cada vetor , possui mais divisores.( em caso de empate escolha o primeiro a ser encontrado)  
         // obrigatório o uso de função
         
         
