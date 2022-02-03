@@ -2,15 +2,7 @@
 public class bass {
    
     public static void main(String[] args) {
-        
-        // qual o maior e o menor  número de cada vetor e de todos 
-        // quantos números pertencentes a fibonacci cada vetor tem 
-        // quantos números primos cada vetor tem 
-        // qual o mmc e mdc de cada vetor 
-        // qual número, de cada vetor , possui mais divisores.( em caso de empate escolha o primeiro a ser encontrado)  
-        // obrigatório o uso de função
-        
-        
+     
         int[][] vetorProposto = { { 23, 44, 56, 39, 81},
                                   { 67, 39, 41, 78, 13},
                                   { 52, 19,  47, 88, 64}};
